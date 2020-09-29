@@ -753,8 +753,8 @@
                  descendants may be mixed, nodes and leafs -->
             <descendants>
 
-                <noderef id="leftLeg"/>
-                <noderef id="rightLeg"/>
+                <noderef id="leftArm"/>
+                <noderef id="rightArm"/>
 
             </descendants>
         </node>
@@ -786,10 +786,10 @@
             <!-- declaring descendants, at least one node or one leaf must be present
                  descendants may be mixed, nodes and leafs -->
             <descendants>
-                <noderef id="leftUpperLegPart"/>
-                <noderef id="leftKnee"/>
-                <noderef id="leftLowerLegPart"/>
-                <noderef id="leftFoot"/>
+                <noderef id="leftUpperArmPart"/>
+                <noderef id="leftElbow"/>
+                <noderef id="leftLowerArmPart"/>
+                <noderef id="leftHand"/>
             </descendants>
 
         </node>
@@ -821,10 +821,10 @@
             <!-- declaring descendants, at least one node or one leaf must be present
                  descendants may be mixed, nodes and leafs -->
             <descendants>
-                <noderef id="rightUpperLegPart"/>
-                <noderef id="rightKnee"/>
-                <noderef id="rightLowerLegPart"/>
-                <noderef id="rightFoot"/>
+                <noderef id="rightUpperArmPart"/>
+                <noderef id="rightElbow"/>
+                <noderef id="rightLowerArmPart"/>
+                <noderef id="rightHand"/>
             </descendants>
 
         </node>
